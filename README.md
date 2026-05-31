@@ -4,10 +4,10 @@ I am a **Backend Developer** based in Athens, Greece, passionate about building 
 
 ### 👨‍💻 About Me
 
-- 💼 Currently working as a **Junior Software Developer** at DAT Hellas, focusing on large-scale fleet management applications and autonomous insurance pipelines.
+- 💼 Currently working as a **Junior Backend Developer** at DAT Hellas, focusing on large-scale fleet management applications and autonomous insurance pipelines.
 - 🎯 **Current Focus:** Deep diving into Python backend ecosystems, specifically **FastAPI** and **Pydantic**, alongside solidifying CI/CD practices.
 - 🚀 **Goal:** Evolving into a fully capable Software Developer by the end of 2026.
-- 🛠️ **Learning/Exploring:** Refining Linux/Ubuntu setups, and building production-ready microservices.
+- 🛠️ **Learning/Exploring:** Running local LLMs, refining Linux/Ubuntu setups, and building production-ready microservices.
 
 ### 🛠️ Tech Stack
 
@@ -17,7 +17,7 @@ I am a **Backend Developer** based in Athens, Greece, passionate about building 
 
 ### 📫 Let's Connect
 
-- **LinkedIn:** [christos-gkraikas](https://linkedin.com/in/christos-gkraikas)
+- **LinkedIn:** [Christos Gkraikas](https://www.linkedin.com/in/χρήστος-γκραίκας-5b1338181/)
 - **Email:** chris.grekas95@gmail.com
 
 ---
