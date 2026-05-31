@@ -7,7 +7,7 @@ I am a **Backend Developer** based in Athens, Greece, passionate about building 
 - 💼 Currently working as a **Junior Backend Developer** at DAT Hellas, focusing on large-scale fleet management applications and autonomous insurance pipelines.
 - 🎯 **Current Focus:** Deep diving into Python backend ecosystems, specifically **FastAPI** and **Pydantic**, alongside solidifying CI/CD practices.
 - 🚀 **Goal:** Evolving into a fully capable Software Developer by the end of 2026.
-- 🛠️ **Learning/Exploring:** Running local LLMs, refining Linux/Ubuntu setups, and building production-ready microservices.
+- 🛠️ **Learning/Exploring:** Refining Linux/Ubuntu setups, and building production-ready microservices.
 
 ### 🛠️ Tech Stack
 
