@@ -17,7 +17,7 @@ I am a **Backend Developer** based in Athens, Greece, passionate about building 
 
 ### 📫 Let's Connect
 
-- **LinkedIn:** [Christos Gkraikas](https://www.linkedin.com/in/χρήστος-γκραίκας-5b1338181/)
+- **LinkedIn:** [Christos Gkraikas](https://www.linkedin.com/in/chrisgrekas/)
 - **Email:** chris.grekas95@gmail.com
 
 ---
