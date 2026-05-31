@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Christos (aka Geko) 👋
 
-<!--
-**chrisgrekas/chrisgrekas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Backend Developer** based in Athens, Greece, passionate about building robust APIs, automating workflows, and writing clean, maintainable code. I enjoy hands-on, project-based problem solving and am constantly working towards leveling up my backend architecture skills.
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 Currently working as a **Junior Backend Developer** at DAT Hellas, focusing on large-scale fleet management applications and autonomous insurance pipelines.
+- 🎯 **Current Focus:** Deep diving into Python backend ecosystems, specifically **FastAPI** and **Pydantic**, alongside solidifying CI/CD practices.
+- 🚀 **Goal:** Evolving into a fully capable Software Developer by the end of 2026.
+- 🛠️ **Learning/Exploring:** Refining Linux/Ubuntu setups, and building production-ready microservices.
+
+### 🛠️ Tech Stack
+
+- **Languages:** Python, PHP, SQL, JavaScript, C++
+- **Frameworks & Libraries:** FastAPI, Pydantic, Django, OpenCV
+- **Tools & Infrastructure:** Git, GitHub Actions, Linux, PostgreSQL, MySQL, REST APIs
+
+### 📫 Let's Connect
+
+- **LinkedIn:** [christos-gkraikas](https://linkedin.com/in/christos-gkraikas)
+- **Email:** chris.grekas95@gmail.com
+
+---
+*Minimalism and efficiency in code.*
