@@ -1,4 +1,4 @@
-# Hi there, I'm Christos (aka Geko) 👋
+# Hi there, I'm Christos (aka Geko) 
 
 I am a **Backend Developer** based in Athens, Greece, passionate about building robust APIs, automating workflows, and writing clean, maintainable code. I enjoy hands-on, project-based problem solving and am constantly working towards leveling up my backend architecture skills.
 
